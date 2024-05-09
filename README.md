@@ -1,1 +1,2 @@
-# AutomationProject
+# Automation Project (Puck Sorting Station)
+For this project, my partner and I learned how to control the puck sorting station using both LAD and FBD programming languages. This station is the last station in the puck assembly line and sorts the pucks based on colour. This repository contains a report on the puck sorting station and a video of the assembly line (excluding the puck sorting station). 
