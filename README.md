@@ -1,2 +1,2 @@
-# Automation Project
+# PLC Automation Project
 For this project, I learned how to control the puck sorting station using both LAD and FBD programming languages. "Conveyor Module Report (LAD)" depicts the functionality of the conveyor belt as well as the LAD program behind its operation. The puck sorting station is the last station in the puck assembly line and sorts the pucks based on colour, a detailed walkthrough of its operation can be found in the "PuckSortingStation" report. Finally, the downloadable mp4 video shows an quick overview of the entire assembly line (excluding the puck sorting station). 
